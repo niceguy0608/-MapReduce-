@@ -1,0 +1,9 @@
+com/mapreduce2.class
+com/mapreduce1$MyMapper.class
+com/mapreduce2$MyMapper.class
+com/mapreduce1.class
+com/childparents$MyReducer.class
+com/childparents.class
+com/mapreduce2$MyReducer.class
+com/mapreduce1$MyReducer.class
+com/childparents$MyMapper.class
